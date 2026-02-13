@@ -1,0 +1,78 @@
+.banner {
+  height: 800px;
+  background-image: url("img/banner.jpg");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+body {
+background-color: #e3f2fd;}
+.link a:link {color:black;}
+
+a:link color
+.banner h1 {
+  position: absolute;
+  top: 20%;
+  left: 40% ;
+  transform: translate(-50%, -50%);
+  background: rgb(255, 255, 255);
+  color: white;
+  background: transparent;
+  font-family: Montserrat,sans-serif;
+  font-size: 60px;
+}
+.slogan {text-align: center; width: 100%;}
+.row1 { background-color: lightgrey;}
+.row{display: flex; max-width: 100%; background-color: lightgrey;}
+.block_3 {; width: 30%; margin: 10px;}
+.cell_img1 {display:block; margin-right: auto ;}
+.cell_img2 {display:block; margin-left: auto ;}
+.cell_img3 {display:block; margin-right: auto ;}
+.cell_text1 {font-size:150%; width: 30%; padding-right: 5rem;}
+.cell_text2 {font-size:150%; width: 30%; padding-right:5rem;}
+.img { float:right; text-align: right ;}
+.menu {color:white;font-size:120%;background-color: #333333; text-align: right;}
+.cell {text-align: justify; padding: 1.5em;}
+footer {background-color: lightgrey; margin: 1px; padding: 10px; white-space: nowrap;}
+.link1  {color: black; margin: 10px ;}
+.link2  {color: black; margin: 5px 	900px ;}
+
+.img1 {
+  display: flex;
+  justify-content: flex-end; 
+  align-items: center;      
+}
+.ngang {
+    width: 100%;                
+    margin: 0 auto;          
+    border-collapse: collapse;
+	background: lightgrey;
+}
+
+td, th {
+    padding: 15px;
+    vertical-align: top;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.banner-area {
+    text-align: center;
+    color: #c0392b;     
+    margin-top: 20px; }
+.center-box {
+    text-align: center;
+}
+
+
+
+.u1 { text-align: center;}
+.e { font-size: 170%; color: #003366;}
+.d { font-size: 120% ; }
+.o {font-size: 300%;} 
+.n {font-size: 220%;} 
